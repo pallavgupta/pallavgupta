@@ -16,7 +16,3 @@ Here are some ideas to get you started:
 -->
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pallavgupta)](https://github.com/anuraghazra/github-readme-stats)
-
-#### Top Languages
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pallavgupta&hide=html)](https://github.com/anuraghazra/github-readme-stats)
